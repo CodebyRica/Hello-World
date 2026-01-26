@@ -1,8 +1,7 @@
-# Intro to HTMLhub
+# Intro to HTML
 
 ### Day 1
-We learned about setting up github
-We learned some basic HTML tags
+We learned about setting up github and some basick HTML tags
 - Set up a GitHub account and repository
 - Learned how to navigate GitHub and manage files
 - Introduced to basic HTML structure
